@@ -44,3 +44,9 @@ In the script there are 2 options that can be changed:
 LANG is set to 'en'. For example, if you want the audio to be in French, you can use 'fr'.
 
 SLOW is set to False. If you set this to true, the audio will play back slower.
+
+### Related Links
+
+Inspired from this article:
+
+https://dev.to/mustafaanaskh99/convert-any-pdf-file-into-an-audio-book-with-python-1gk4

@@ -15,6 +15,14 @@ Installed these packages:
 # sudo apt-get install build-essential libpoppler-cpp-dev pkg-config python-dev libevent-dev
 ```
 
+### MacOS:
+
+If you are on MacOS you can install the prerequisites like:
+
+```
+# brew install pkg-config poppler
+```
+
 ### Python:
 
 *For best results, use pyenv to set up your environment.*
